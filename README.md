@@ -1,2 +1,2 @@
 # Mathe-Vorkurs
-Here you can find materials for the course
+Here you can find the materials for the course
